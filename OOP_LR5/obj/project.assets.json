@@ -8,24 +8,31 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\кпа\\.nuget\\packages\\": {}
+    "C:\\Users\\vmaks\\.nuget\\packages\\": {},
+    "D:\\ООП\\visual stuio\\Общие компоненты, инструменты и пакеты SDK\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\кпа\\Desktop\\OOP_LR5\\OOP_LR5\\OOP_LR5.csproj",
-      "projectName": "OOP_LR5",
-      "projectPath": "C:\\Users\\кпа\\Desktop\\OOP_LR5\\OOP_LR5\\OOP_LR5.csproj",
-      "packagesPath": "C:\\Users\\кпа\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\кпа\\Desktop\\OOP_LR5\\OOP_LR5\\obj\\",
+      "projectUniqueName": "D:\\Учеба\\ООП\\OOP-LR5-Main-Repository\\OOP_LR5\\OOP_LR5_1.csproj",
+      "projectName": "OOP_LR5_1",
+      "projectPath": "D:\\Учеба\\ООП\\OOP-LR5-Main-Repository\\OOP_LR5\\OOP_LR5_1.csproj",
+      "packagesPath": "C:\\Users\\vmaks\\.nuget\\packages\\",
+      "outputPath": "D:\\Учеба\\ООП\\OOP-LR5-Main-Repository\\OOP_LR5\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\ООП\\visual stuio\\Общие компоненты, инструменты и пакеты SDK\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\кпа\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\vmaks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\кпа\\.dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

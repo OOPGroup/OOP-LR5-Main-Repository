@@ -1,7 +1,6 @@
-﻿using OOP_LR5;
-using System.Text;
+﻿using System.Text;
 
-internal class Program
+internal class MainClass
 {
     private static void Main(string[] args)
     {
