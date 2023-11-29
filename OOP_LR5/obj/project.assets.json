@@ -8,24 +8,26 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\кпа\\.nuget\\packages\\": {}
+    "C:\\Users\\podur\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\кпа\\Desktop\\OOP_LR5\\OOP_LR5\\OOP_LR5.csproj",
+      "projectUniqueName": "C:\\asdasdas\\OOP_LR5\\OOP_LR5.csproj",
       "projectName": "OOP_LR5",
-      "projectPath": "C:\\Users\\кпа\\Desktop\\OOP_LR5\\OOP_LR5\\OOP_LR5.csproj",
-      "packagesPath": "C:\\Users\\кпа\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\кпа\\Desktop\\OOP_LR5\\OOP_LR5\\obj\\",
+      "projectPath": "C:\\asdasdas\\OOP_LR5\\OOP_LR5.csproj",
+      "packagesPath": "C:\\Users\\podur\\.nuget\\packages\\",
+      "outputPath": "C:\\asdasdas\\OOP_LR5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\кпа\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\podur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\кпа\\.dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
