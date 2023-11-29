@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Учеба\\ООП\\OOP-LR5-Main-Repository\\OOP_LR5\\OOP_LR5.csproj": {}
+    "C:\\asdasdas\\OOP_LR5\\OOP_LR5.csproj": {}
   },
   "projects": {
-    "D:\\Учеба\\ООП\\OOP-LR5-Main-Repository\\OOP_LR5\\OOP_LR5.csproj": {
+    "C:\\asdasdas\\OOP_LR5\\OOP_LR5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учеба\\ООП\\OOP-LR5-Main-Repository\\OOP_LR5\\OOP_LR5.csproj",
+        "projectUniqueName": "C:\\asdasdas\\OOP_LR5\\OOP_LR5.csproj",
         "projectName": "OOP_LR5",
-        "projectPath": "D:\\Учеба\\ООП\\OOP-LR5-Main-Repository\\OOP_LR5\\OOP_LR5.csproj",
-        "packagesPath": "C:\\Users\\vmaks\\.nuget\\packages\\",
-        "outputPath": "D:\\Учеба\\ООП\\OOP-LR5-Main-Repository\\OOP_LR5\\obj\\",
+        "projectPath": "C:\\asdasdas\\OOP_LR5\\OOP_LR5.csproj",
+        "packagesPath": "C:\\Users\\podur\\.nuget\\packages\\",
+        "outputPath": "C:\\asdasdas\\OOP_LR5\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\ООП\\visual stuio\\Общие компоненты, инструменты и пакеты SDK\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\vmaks\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\podur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
