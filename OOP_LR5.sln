@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_LR5", "OOP_LR5\OOP_LR5.csproj", "{6466B13B-C38A-40F3-88D0-F3C7959DC0CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP_LR5", "OOP_LR5\OOP_LR5.csproj", "{6466B13B-C38A-40F3-88D0-F3C7959DC0CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_LR5_2", "OOP_LR5_2\OOP_LR5_2.csproj", "{011F00F5-DCF1-4F51-BD78-C04D72C666EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6466B13B-C38A-40F3-88D0-F3C7959DC0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6466B13B-C38A-40F3-88D0-F3C7959DC0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6466B13B-C38A-40F3-88D0-F3C7959DC0CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{011F00F5-DCF1-4F51-BD78-C04D72C666EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{011F00F5-DCF1-4F51-BD78-C04D72C666EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{011F00F5-DCF1-4F51-BD78-C04D72C666EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{011F00F5-DCF1-4F51-BD78-C04D72C666EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
