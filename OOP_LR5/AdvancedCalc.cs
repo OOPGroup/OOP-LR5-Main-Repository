@@ -1,6 +1,6 @@
 ﻿namespace OOP_LR5_1
 {
-    internal class AdvancedCalc
+    internal class AdvancedCalc : OrdinaryCalc
     {
         //В даному випадку у класі CalculatorStandart є конструктор за замовчуванням, але це не явно вказано в коді.
 
